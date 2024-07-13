@@ -6,7 +6,7 @@ import java.util.Arrays;
  Multiline Comment
  */
 
-public class print_statement {
+public class basics {
 
     public static void main(String[] args) {
         byte a = 1;        //1 byte(8bits)

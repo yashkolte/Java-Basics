@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
-public class exercise {
+public class Exercise {
     public static void main(String[] args) {
         // Exercise 1
         // Create a variable to store the name of a person and print it

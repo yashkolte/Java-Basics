@@ -6,7 +6,7 @@ import java.util.Arrays;
  Multiline Comment
  */
 
-public class basics {
+public class Basics {
 
     public static void main(String[] args) {
         byte a = 1;        //1 byte(8bits)
@@ -149,10 +149,10 @@ public class basics {
 
         //Scanner
         // import java.util.Scanner;
-        // Scanner sc = new Scanner(System.in);
-        // System.out.println("Enter a number: ");
-        // int num = sc.nextInt();
-        // System.out.println("Number is: " + num);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a number: ");
+        int num = sc.nextInt();
+        System.out.println("Number is: " + num);
 
 
 

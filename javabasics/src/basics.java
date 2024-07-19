@@ -149,10 +149,10 @@ public class Basics {
 
         //Scanner
         // import java.util.Scanner;
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number: ");
-        int num = sc.nextInt();
-        System.out.println("Number is: " + num);
+        // Scanner sc = new Scanner(System.in);
+        // System.out.println("Enter a number: ");
+        // int num = sc.nextInt();
+        // System.out.println("Number is: " + num);
 
 
 
